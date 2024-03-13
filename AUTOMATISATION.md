@@ -25,8 +25,8 @@ kad kodas veiktų, reikia šių bibliotekų:
 * PIL
 * pdf2image
 * PyPDF2
-* codecs
 
+PIL instaliojasi su "pip install Pillow"
 visas galima instaliuoti su pip, tiesiog rašant pvz. "pip install PIL" 
 
 Dar reikia atsisiųsti iš čia  
